@@ -12,25 +12,25 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['59897463355', 'ZeroBot', true],  
-  ['59897463355', 'Gabi Owner', true],
-  ['59897463355', 'Gabi Owner 2', true],
-  ['59897463355', 'ZeroBot', true],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355'],
-  ['59897463355']
+  ['5493585764231', 'Ludmi Bot', true],  
+  ['5493585764231', 'Ludmi bot', true],
+  ['5493585764231', 'Ludmi bot 2', true],
+  ['5493585764231', 'Ludmi bot', true],
+  ['5493585764231'],
+  ['5493585764231'],
+  ['5493585764231'],
+  ['5493585764231'],
+  ['5493585764231'],
+  ['5493585764231'],
+  ['5493585764231'],
+  ['5493585764231'],
+  ['5493585764231']
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['59897463355'] 
+global.prems = ['5493585764231'] 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -102,26 +102,26 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['59897463355', 'ZeroBot', 1], 
-['59897463355', 'ZeroBot', 1],  
-['59897463355', 'ZeroBot', 1],
-['59897463355', 'ZeroBot', 1],
-['59897463355', 'ZeroBot', 1]] 
+['5493585764231', 'Ludmi Bot', 1], 
+['5493585764231', 'Ludmi Bot', 1],  
+['5493585764231', 'Ludmi Bot', 1],
+['5493585764231', 'Ludmi bot', 1],
+['5493585764231', 'Ludmi bot', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = 'ZeroBot'
-global.author = 'ZeroBot'
+global.packname = 'Ludmi Bot'
+global.author = 'Ludmi Bot'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.9'
 global.vsJB = '2.0'
 
-global.gt = 'ZeroBot'
+global.gt = 'Ludmi bot'
 global.yt = 'https://www.instagram.com/ventas_bot.thezero'
 global.yt2 = 'https://www.instagram.com/ventas_bot.thezero'
 global.ig = 'https://www.instagram.com/ventas_bot.thezero'
@@ -174,7 +174,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'MiluBot'
+global.wm = 'ludmi Bot'
 global.igfg = '@milu._gr'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
